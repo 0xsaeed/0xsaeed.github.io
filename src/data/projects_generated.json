@@ -1,0 +1,126 @@
+[
+    {
+        "id": 1,
+        "title": "AI Image Recognition System",
+        "description": "Advanced image recognition system using deep learning to identify objects in real-time with 98% accuracy.",
+        "image": "/images/projects/project1.jpg",
+        "tags": [
+            "AI",
+            "Computer Vision"
+        ],
+        "technologies": [
+            "TensorFlow",
+            "Python",
+            "OpenCV"
+        ],
+        "githubUrl": "https://github.com/0xsaeed/ai-image-recognition",
+        "liveUrl": "#",
+        "featured": true
+    },
+    {
+        "id": 2,
+        "title": "Decentralized Finance Platform",
+        "description": "A secure DeFi platform enabling peer-to-peer lending, borrowing, and yield farming with smart contract automation.",
+        "image": "/images/projects/project2.jpg",
+        "tags": [
+            "Blockchain",
+            "DeFi"
+        ],
+        "technologies": [
+            "Solidity",
+            "Ethereum",
+            "React"
+        ],
+        "githubUrl": "https://github.com/0xsaeed/defi-platform",
+        "liveUrl": "#",
+        "featured": true
+    },
+    {
+        "id": 3,
+        "title": "Autonomous Delivery Robot",
+        "description": "Self-navigating robot designed for last-mile delivery in urban environments with obstacle avoidance.",
+        "image": "/images/projects/project3.jpg",
+        "tags": [
+            "Robotics",
+            "IoT"
+        ],
+        "technologies": [
+            "ROS",
+            "C++",
+            "SLAM"
+        ],
+        "githubUrl": "https://github.com/0xsaeed/delivery-robot",
+        "liveUrl": "#",
+        "featured": true
+    },
+    {
+        "id": 4,
+        "title": "Blockchain-based Supply Chain Tracker",
+        "description": "Transparent supply chain management system using blockchain to track products from origin to consumer.",
+        "image": "/images/projects/project4.jpg",
+        "tags": [
+            "Blockchain",
+            "Supply Chain"
+        ],
+        "technologies": [
+            "Hyperledger",
+            "Node.js",
+            "React"
+        ],
+        "githubUrl": "https://github.com/0xsaeed/supply-chain-tracker",
+        "featured": false
+    },
+    {
+        "id": 5,
+        "title": "Neural Network Visualization Tool",
+        "description": "Interactive tool for visualizing neural network architectures and training processes in real-time.",
+        "image": "/images/projects/project5.jpg",
+        "tags": [
+            "AI",
+            "Data Visualization"
+        ],
+        "technologies": [
+            "PyTorch",
+            "D3.js",
+            "Python"
+        ],
+        "githubUrl": "https://github.com/0xsaeed/neural-viz",
+        "liveUrl": "#",
+        "featured": false
+    },
+    {
+        "id": 6,
+        "title": "Smart Home Automation System",
+        "description": "IoT-based system for automating home appliances with voice control and energy optimization.",
+        "image": "/images/projects/project6.jpg",
+        "tags": [
+            "IoT",
+            "Smart Home"
+        ],
+        "technologies": [
+            "Arduino",
+            "Raspberry Pi",
+            "MQTT"
+        ],
+        "githubUrl": "https://github.com/0xsaeed/smart-home",
+        "featured": false
+    },
+    {
+        "id": 7,
+        "title": "Moxie Protocol Dashboard",
+        "description": "Comprehensive Dune analytics dashboard for Moxie Protocol on Base chain, winner of dashboard competition.",
+        "image": "/images/projects/project7.jpg",
+        "tags": [
+            "Web3",
+            "Data Analytics"
+        ],
+        "technologies": [
+            "SQL",
+            "Dune Analytics",
+            "Data Visualization"
+        ],
+        "githubUrl": "https://github.com/0xsaeed/moxie-dashboard",
+        "liveUrl": "https://dune.com/soodoo/moxie",
+        "featured": false
+    }
+] 

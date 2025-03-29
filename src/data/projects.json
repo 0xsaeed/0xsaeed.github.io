@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Scroll Canvas & Marks Analytics",
+        "description": "Analysis and visualization of wallet activities and badge statistics, tracking transactions through on-chain data on Scroll.",
+        "image": "/images/projects/Scroll-Canvas.png",
+        "tags": [
+            "Ethereum L2",
+            "Scroll",
+            "Dune Analytics"
+        ],
+        "technologies": [
+            "DuneQL",
+            "SQL",
+            "ABI"
+        ],
+        "githubUrl": "",
+        "mediumUrl": "",
+        "liveUrl": "https://dune.com/soodoo/scroll-marks",
+        "featured": true
+    }
+]
