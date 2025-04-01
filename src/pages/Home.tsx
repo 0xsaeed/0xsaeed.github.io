@@ -240,7 +240,7 @@ const Home: React.FC = () => {
                   </li>
                   <li className="flex items-center">
                     <div className="w-2 h-2 rounded-full bg-primary-500 mr-2"></div>
-                    LangChain, NLTK
+                    LangGraph, NLTK
                   </li>
                 </ul>
               </div>
