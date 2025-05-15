@@ -625,7 +625,7 @@ const Home: React.FC = () => {
                     <h3 className="text-xl font-bold mb-1">Honorable Mention</h3>
                     <p className="text-dark-500 dark:text-gray-400 text-sm mb-3">Regional ACM-ICPC • 2017 & 2019</p>
                     <p className="text-dark-600 dark:text-gray-300">
-                      Awarded for for solving complex algorithmic problems using C++, data structures, and efficient coding practices
+                      Awarded for solving complex algorithmic problems using C++, data structures, and efficient coding practices
                       in a team-based competition under time constraints. 
                     </p>
                   </div>
