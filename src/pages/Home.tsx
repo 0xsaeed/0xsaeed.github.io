@@ -570,7 +570,7 @@ const Home: React.FC = () => {
                   </div>
                   <div className="flex-1">
                     <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-2">
-                      <h3 className="text-xl font-bold">Junior Back-End Develope</h3>
+                      <h3 className="text-xl font-bold">Junior Back-End Developer</h3>
                       <span className="text-sm text-dark-500 dark:text-gray-400 mt-1 md:mt-0">Dec 2018 — Nov 2019</span>
                     </div>
                     <h4 className="text-lg text-accent-600 dark:text-accent-400 mb-2">Zhooll(Rahgoshayan-Honar-Sepehr-Avazeh)</h4>
